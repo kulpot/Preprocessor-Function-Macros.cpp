@@ -7,5 +7,5 @@ using std::endl;
 
 void main()
 {
-
+	cout << 5 << endl;
 }
