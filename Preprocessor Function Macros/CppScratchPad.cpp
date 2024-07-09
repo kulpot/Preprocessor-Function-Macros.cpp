@@ -12,4 +12,5 @@ void main()
 {
 	cout << 5 << endl;
 	//p(5);	//p short for print
+	PRINT(5);
 }
